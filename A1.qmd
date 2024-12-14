@@ -1,0 +1,75 @@
+# Talentos {-}
+
+## Talentos associados à Tática
+*notas: estes talentos só produzirão efeitos se forem ativadas TAs / Táticas específicas. Por exemplo, num jogador com talento de “Especialista em Pressão Forte”, os bónus e as penalizações só ocorrem se esta TA for ativada. Se não a utilizares, o talento não se encontrará ativo.
+
+
+* Rápido:
+    * +2 velocidade com Sol
+    * -2 força com Chuva ou Neve
+* Forte:
+    * +2 de força com Chuva ou Neve
+    * -2 velocidade com Sol
+* Especialista em Passes Curtos:
+    * +2 GS se jogares com Passes Curtos
+    * -2 GS se jogares noutro estilo (excepto passes variados)
+* Especialista em Passes Longos:
+    * +2 GS se jogares com Passes Longos
+    * -2 GS se jogares com outro estilo (excepto passes variados)
+* Especialista em Jogo Directo:
+    * +2 GS se jogares com Jogo Directo
+    * -2 GS se jogares com outro estilo (excepto passes variados)
+* Especialista em Pressão Fraca:
+    * -2 velocidade, + 2 desarme
+    * -2 GS (ambos se jogares com Pressão Fraca)
+*  Especialista em Pressão Forte:
+    * +2 velocidade, +2 passe
+    * -2 GS (ambos se jogares com Pressão Forte)
+*  Especialista em Defesa em Linha:
+    * +2 cultura tática, +2 velocidade
+    * -2 GS (ambos se jogares com Defesa em Linha)
+*  Especialista em Contra Ataque:
+    *  +2 velocidade, +2 passe
+    *  -2 GS (ambos se jogares com Contra Ataque)
+*  Especialista em Jogo Aéreo:
+    *  +2 jogo aéreo, +2 força
+    *  -2 GS (ambos se jogares com Jogo Aéreo)
+*  Especialista em Um para Um:
+    *  +2 técnica, +2 força
+    *  -2 GS (ambos se jogares com Um para Um)
+*  Especialista em Marcação à Zona:
+    *  +2 velocidade, +2 desarme
+    *  -2 GS (ambos se jogares com Marcação à Zona)
+*  Especialista em Marcação Homem a Homem:
+    *  +2 força, +2 desarme
+    *  -2 GS (ambos se jogares com Marcação Homem a Homem)
+*  Especialista em Remates de Longe:
+    *  +2 remate, +2 técnica
+    *  -2 GS (ambos se jogares com Remates de Longe)
+*  Especialista em Remates de Primeira:
+    *  +2 remate, +2 jogo aéreo
+    *  -2 GS (ambos se jogares com Remates de Primeira)
+*  Mentalidade Atacante:
+    *  +2 GS se jogares com estilo atacante
+    *  -2 GS se jogares com estilo defensivo
+*  Mentalidade Defensiva:
+    *  +2 GS se jogares com estilo defensivo
+    *  -2 GS se jogares com estilo atacante
+*  Agressivo:
+    *  +2 GS se jogares com desarme duro
+    *  -2 GS se jogares com desarme suave
+*  Cobarde:
+    *  +2 GS se jogares com desarme suave
+    *  -2 GS se jogares com desarme duro
+
+## Talentos associados a Eventos
+
+*  Substituto Heróico:
+    *  +2 GS se o jogador entrar em campo após os 60min (inclusive)
+    *  -2 GS se fizer parte do onze inicial
+*  Titular Motivado:
+    *  +2 GS se o jogador fizer parte do onze inicial
+    *  -2 GS se entrar no jogo como substituto
+*  Mau Perdedor:
+    *  +2 GS se a equipa estiver a perder
+    *  -2 GS se a equipa estiver a ganhar

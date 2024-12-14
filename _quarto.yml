@@ -1,0 +1,31 @@
+project:
+  type: book
+
+book:
+  title: PManager
+  subtitle: Manual
+  author: "Vasco André"
+  date: today
+  chapters:
+    - index.qmd
+    - 01.qmd
+    - 02.qmd
+    - 03.qmd
+    - 04.qmd
+    - 05.qmd
+    - 06.qmd
+    # - references.qmd
+  appendices: 
+    - A0.qmd
+    - A1.qmd
+
+# bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
